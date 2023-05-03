@@ -218,7 +218,7 @@ import {
         },
       ],
       image: findcamp,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/beingDeveloper2312/FindCamp",
     },
     {
       name: "Get to watch",
